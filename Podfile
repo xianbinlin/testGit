@@ -7,6 +7,7 @@ target 'testGitGit' do
 
   # Pods for testGitGit
 	pod 'SwiftyJSON'
+	pod 'PNChartSwift',:git => 'https://github.com/kevinzhow/PNChart-Swift.git'
   target 'testGitGitTests' do
     inherit! :search_paths
     # Pods for testing

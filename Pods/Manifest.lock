@@ -1,12 +1,24 @@
 PODS:
+  - PNChartSwift (0.0.2)
   - SwiftyJSON (3.1.4)
 
 DEPENDENCIES:
+  - PNChartSwift (from `https://github.com/kevinzhow/PNChart-Swift.git`)
   - SwiftyJSON
 
+EXTERNAL SOURCES:
+  PNChartSwift:
+    :git: https://github.com/kevinzhow/PNChart-Swift.git
+
+CHECKOUT OPTIONS:
+  PNChartSwift:
+    :commit: 693aad52fa8122458b72501de642e4c8583a0db3
+    :git: https://github.com/kevinzhow/PNChart-Swift.git
+
 SPEC CHECKSUMS:
+  PNChartSwift: bcdfbffd65920072463eff42d0dfb46189bf4495
   SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
 
-PODFILE CHECKSUM: f6e0987368bc92ea4ffa1ae27f47c64629629d32
+PODFILE CHECKSUM: a0edbf33210996fd323fbef92dffce43dd0f873a
 
 COCOAPODS: 1.2.0

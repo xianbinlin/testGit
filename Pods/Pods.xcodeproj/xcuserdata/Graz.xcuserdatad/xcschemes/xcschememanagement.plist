@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>PNChartSwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-testGitGit.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -26,27 +31,6 @@
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict>
-		<key>3D2852FB638FBE265DFE7296B8727CE8</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>4203CA53FD197B8C4D849288091FF799</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>6039A51A33B11070A41AA69915FAF300</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>9C63CC0B046637798E71F154C2F3E11F</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-	</dict>
+	<dict/>
 </dict>
 </plist>

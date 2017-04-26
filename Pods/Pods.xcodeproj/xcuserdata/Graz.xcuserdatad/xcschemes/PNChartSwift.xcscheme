@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '9C63CC0B046637798E71F154C2F3E11F'
-               BlueprintName = 'Pods-testGitGitTests'
+               BlueprintIdentifier = 'A856DEA7B6935A932C57AE1290117AE3'
+               BlueprintName = 'PNChartSwift'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'Pods-testGitGitTests.framework'>
+               BuildableName = 'PNChartSwift.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
