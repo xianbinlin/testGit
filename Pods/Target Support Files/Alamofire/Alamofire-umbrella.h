@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double PNChartSwiftVersionNumber;
-FOUNDATION_EXPORT const unsigned char PNChartSwiftVersionString[];
+FOUNDATION_EXPORT double AlamofireVersionNumber;
+FOUNDATION_EXPORT const unsigned char AlamofireVersionString[];
 
